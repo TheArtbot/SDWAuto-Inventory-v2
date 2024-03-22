@@ -1,0 +1,5 @@
+ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
+ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
+ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
+ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
+ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak

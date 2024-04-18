@@ -1,0 +1,9 @@
+From: 18/4/2024     To: 18/4/2024
+Count: 2
+
+--------------------------------------------
+Make: Demo                              Model: Demo
+VIN: 162721HHSJWE                       Model: 16271
+--------------------------------------------
+Make: New GEN                           Model: New GEN
+VIN: 12563221                           Model: 910122

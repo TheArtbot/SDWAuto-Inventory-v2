@@ -8,4 +8,4 @@ Id:1256YT163~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:1
 Id:1256YT164~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
 Id:1256YT165~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
 Id:1256YT166~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
-Id:1256YT161~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:True~Sold:True
+Id:1256YT161~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False

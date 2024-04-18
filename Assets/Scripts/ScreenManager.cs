@@ -7,11 +7,18 @@ public class ScreenManager : MonoBehaviour
 {
     public GameObject currentScreen;
 
-    public void SwitchScreens(GameObject Screen)
+    public void Update()
+    {
+        UIHandler currentUI = currentScreen.GetComponent<UIHandler>();
+        currentUI.WhileActive();
+    }
+
+    public void SwitchScreens(UIHandler Screen)
     {
         if(currentScreen != null) { currentScreen.SetActive(false); }
-        currentScreen = Screen;
+        currentScreen = Screen.gameObject;
         currentScreen.SetActive(true);
+        Screen.Activate();
     }
 
     public void CloseProgram()

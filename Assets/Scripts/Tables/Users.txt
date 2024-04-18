@@ -1,0 +1,3 @@
+Username:danielWright~Password:WordOfPassage~Manager:True
+Username:daniel~Password:Passage~Manager:False
+Username:Jessi~Password:BestOfBothWorlds~Manager:True

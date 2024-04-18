@@ -1,5 +1,11 @@
-ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
-ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
-ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
-ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
-ID:1231,Make:test1,Model:test1,VIN:123HG121,Price:1234,Sold:false,onLoan:false,inHouse:True,Colour:Red,Description:ashajajak
+Id:12RQT21~Day:8~Month:4~Year:2024~Client:Daniel Wright~Make:Dev Testing~Model:Edit Car~VIN:251QEAGST372J~Price:28211~Description:Car meant to test the editablity of Car Records. Edit: It's working but it might have issues with the In House checkbox. Edit 2: Completed~Colour:Yellow-ish Blue~inHouse:True~onLoan:False~Sold:False
+Id:128902~Day:9~Month:4~Year:2024~Client:Daniel Wright~Make:Dev Test~Model:Add/Edit~VIN:WYUW12231~Price:82791~Description:A test car made to testi the add/ edit car feature~Colour:purple~inHouse:True~onLoan:False~Sold:False
+Id:SHAUqhq1882~Day:10~Month:4~Year:2024~Client:Daniel Wright~Make:Dev Test~Model:Sell Car Testing~VIN:1265ASTS251~Price:98322~Description:Ingrone this, im too lazy to write a definition~Colour:Green~inHouse:True~onLoan:False~Sold:True
+Id:SGHDwtY~Day:9~Month:4~Year:2024~Client:Daniel Wright~Make:Dev Test~Model:Add Edit 2~VIN:!161HSYw181~Price:27492~Description:Testing for the second time~Colour:Pine Green~inHouse:True~onLoan:False~Sold:False
+Id:14251DGFE~Day:18~Month:4~Year:2024~Client:DW~Make:Demo~Model:Practice~VIN:162721HHSJWE~Price:16271~Description:Demo practice run~Colour:purple~inHouse:True~onLoan:True~Sold:True
+Id:1256YT162~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
+Id:1256YT163~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
+Id:1256YT164~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
+Id:1256YT165~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
+Id:1256YT166~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:False~Sold:False
+Id:1256YT161~Day:10~Month:4~Year:2024~Client:GTR~Make:New GEN~Model:YYUUUY~VIN:12563221~Price:910122~Description::)~Colour:Black~inHouse:True~onLoan:True~Sold:True
